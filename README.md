@@ -1,5 +1,14 @@
 # 💫 About Me:
-🎧 I’m currently working on some Projects.<br>👯 I’m looking to collaborate on it.<br>🤝 I’m looking for help with ideas.<br>🌱 I’m currently learning.<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hey there, I'm Akshay!
+A passionate BCA student and a proud member of the 🔭RootSTAR 🌟 Ethical Hacker team.
+
+My journey began with a Diploma in Computer Application from Creative Computer Centre, followed by refining my English communication skills at Oxbridge Communication Centre. I thrive on tackling challenges, problem-solving, and building innovative tech solutions.
+
+I've built a robust foundation in ethical hacking, further honed during a 1.5-month internship at CDAC Patna, where I gained hands-on experience with real-world cybersecurity challenges.
+
+My ambition is clear: to make the digital world a safer place by defending against cyber threats.
+
+I'm eager to collaborate with like-minded professionals and organizations committed to fortifying their cyber defenses. Let's connect if you're interested in discussing cybersecurity, need insights on protecting your digital assets, or want to build a safer digital future together! 👨🏻‍💻📂
 
 
 ## 🌐 Socials:
