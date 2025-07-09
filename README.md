@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hey there, I'm Akshay!
-A passionate BCA student and a proud member of the 🔭RootSTAR 🌟 Ethical Hacker team.
+A dedicated and enthusiastic Bachelor of Computer Applications student and a proud member of the Ethical Hacker team, 🔭RootSTAR 🌟.
 
 My journey began with a Diploma in Computer Application from Creative Computer Centre, followed by refining my English communication skills at Oxbridge Communication Centre. I thrive on tackling challenges, problem-solving, and building innovative tech solutions.
 
